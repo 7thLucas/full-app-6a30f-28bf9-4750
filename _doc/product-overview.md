@@ -19,10 +19,10 @@ Website resmi SMP Muhammadiyah 2 Surakarta — portal informasi publik yang menj
 - **Masyarakat umum**: mengenal profil dan reputasi sekolah secara digital
 
 ## Fitur Utama
-1. **Beranda (Home)**: sambutan kepala sekolah, highlight berita & pengumuman terbaru, akses cepat PPDB
+1. **Beranda (Home)**: sambutan kepala sekolah, highlight pengumuman terbaru, akses cepat PPDB
 2. **Profil Sekolah**: sejarah sekolah, visi & misi, akreditasi, struktur organisasi, dan nilai-nilai Muhammadiyah
 3. **PPDB (Penerimaan Peserta Didik Baru)**: persyaratan lengkap, jadwal penerimaan, prosedur pendaftaran, dan formulir online
-4. **Berita & Pengumuman**: artikel berita sekolah, pengumuman penting yang dapat diperbarui admin secara langsung
+4. **Pengumuman**: pengumuman penting yang dapat diperbarui admin secara langsung (tanpa fitur berita/artikel)
 5. **Akademik**: informasi kurikulum, jadwal pelajaran, kalender akademik, dan daftar ekstrakurikuler
 6. **Prestasi**: dokumentasi prestasi akademik & non-akademik siswa (lomba, olimpiade, seni, olahraga)
 7. **Galeri**: foto dan dokumentasi kegiatan sekolah (upacara, acara, lomba, ekstrakurikuler)

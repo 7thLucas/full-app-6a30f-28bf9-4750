@@ -30,7 +30,7 @@ Website resmi SMP Muhammadiyah 2 Surakarta — portal informasi publik yang menj
 9. **Kontak**: alamat lengkap, nomor telepon, email, peta lokasi Google Maps, dan formulir kontak online
 
 ## Verified Operations (Weekly)
-1. **Konten diterbitkan** — berita atau pengumuman baru dipublikasikan oleh admin ke website
+1. **Pengumuman diterbitkan** — pengumuman baru dipublikasikan oleh admin ke website (tanpa modul berita/artikel)
 2. **Formulir kontak dikirim** — orang tua atau calon siswa mengirim pertanyaan via formulir website
 
 ## Prinsip Strategis

@@ -1,0 +1,75 @@
+<style>
+.mode-landscape .sl-root { flex-direction: row; }
+.mode-portrait .sl-root { flex-direction: column; }
+.mode-landscape .sl-problem { width: 50%; border-right: 1px solid #e2e8f0; }
+.mode-portrait .sl-problem { width: 100%; flex: 1; border-bottom: 1px solid #e2e8f0; }
+.mode-landscape .sl-solution { width: 50%; }
+.mode-portrait .sl-solution { width: 100%; flex: 1; }
+</style>
+
+<section class="w-full h-full overflow-hidden bg-white">
+  <div class="sl-root flex w-full h-full">
+
+    <!-- Left: Problem -->
+    <div class="sl-problem flex flex-col justify-center p-10 bg-slate-50">
+      <div class="w-8 h-1 bg-red-500 mb-4 rounded"></div>
+      <div class="text-xs font-bold text-red-600 uppercase tracking-widest mb-2">Masalah yang Ada</div>
+      <h3 class="text-xl font-black text-slate-900 leading-snug mb-5">
+        Informasi sekolah berserakan — orang tua kerepotan mencari
+      </h3>
+      <ul class="space-y-3">
+        <li class="flex items-start gap-3">
+          <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center flex-shrink-0 mt-0.5">
+            <div class="w-2 h-2 rounded-full bg-red-500"></div>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">Info PPDB hanya tersebar lewat brosur atau mulut ke mulut — mudah terlewat calon siswa</p>
+        </li>
+        <li class="flex items-start gap-3">
+          <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center flex-shrink-0 mt-0.5">
+            <div class="w-2 h-2 rounded-full bg-red-500"></div>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">Orang tua harus telepon atau WhatsApp staf TU hanya untuk tanya jadwal dan pengumuman rutin</p>
+        </li>
+        <li class="flex items-start gap-3">
+          <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center flex-shrink-0 mt-0.5">
+            <div class="w-2 h-2 rounded-full bg-red-500"></div>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">Tidak ada wajah digital resmi — kualitas dan reputasi sekolah sulit dilihat publik secara online</p>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Right: Solution -->
+    <div class="sl-solution flex flex-col justify-center p-10 bg-white">
+      <div class="w-8 h-1 bg-blue-600 mb-4 rounded"></div>
+      <div class="text-xs font-bold text-blue-700 uppercase tracking-widest mb-2">Solusi yang Ditawarkan</div>
+      <h3 class="text-xl font-black text-slate-900 leading-snug mb-5">
+        Portal sekolah terpusat — akses kapan saja, tanpa harus menelepon
+      </h3>
+      <ul class="space-y-3">
+        <li class="flex items-start gap-3">
+          <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center flex-shrink-0 mt-0.5">
+            <div class="w-2 h-2 rounded-full bg-blue-600"></div>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">Info PPDB lengkap & terkini tersedia online, dapat diakses 24/7 langsung dari smartphone</p>
+        </li>
+        <li class="flex items-start gap-3">
+          <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center flex-shrink-0 mt-0.5">
+            <div class="w-2 h-2 rounded-full bg-blue-600"></div>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">Pengumuman, jadwal, dan kalender akademik diperbarui langsung oleh admin — real-time, akurat</p>
+        </li>
+        <li class="flex items-start gap-3">
+          <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center flex-shrink-0 mt-0.5">
+            <div class="w-2 h-2 rounded-full bg-blue-600"></div>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">Profil resmi, galeri prestasi, dan nilai-nilai Muhammadiyah membangun kepercayaan publik</p>
+        </li>
+      </ul>
+      <div class="mt-6 p-3 rounded-xl bg-blue-50 border border-blue-100">
+        <p class="text-xs text-blue-800 font-semibold">✦ Dirancang mobile-first — karena mayoritas orang tua mengakses informasi via HP</p>
+      </div>
+    </div>
+
+  </div>
+</section>

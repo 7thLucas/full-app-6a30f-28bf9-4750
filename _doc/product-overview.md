@@ -15,7 +15,7 @@ Website resmi SMP Muhammadiyah 2 Surakarta — portal informasi publik yang menj
 ## Pengguna
 - **Orang tua & siswa aktif**: mencari pengumuman, jadwal pelajaran, kalender akademik, galeri kegiatan, dan kontak sekolah
 - **Calon siswa & orang tua prospektif**: mencari info PPDB (Penerimaan Peserta Didik Baru), persyaratan, jadwal pendaftaran, profil sekolah, dan program unggulan
-- **Guru & staf administrasi**: menerbitkan berita, mengelola pengumuman, memperbarui konten
+- **Guru & staf administrasi**: mengelola pengumuman, memperbarui konten halaman sekolah
 - **Masyarakat umum**: mengenal profil dan reputasi sekolah secara digital
 
 ## Fitur Utama

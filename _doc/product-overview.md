@@ -36,6 +36,6 @@ Website resmi SMP Muhammadiyah 2 Surakarta — portal informasi publik yang menj
 ## Prinsip Strategis
 - **Akses terbuka**: seluruh informasi publik dapat diakses tanpa login
 - **Mobile-first**: desain ramah smartphone karena mayoritas pengguna akses via HP
-- **Konten mudah diperbarui**: berita, pengumuman, dan info PPDB dapat dikelola admin tanpa keahlian teknis
+- **Konten mudah diperbarui**: pengumuman dan info PPDB dapat dikelola admin tanpa keahlian teknis
 - **Mencerminkan nilai Islam**: tampilan dan konten merepresentasikan identitas Muhammadiyah yang teguh dan modern
 - **Membangun kepercayaan publik**: kehadiran digital profesional meningkatkan reputasi sekolah di mata orang tua dan calon siswa

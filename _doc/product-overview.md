@@ -4,7 +4,7 @@
 Website resmi SMP Muhammadiyah 2 Surakarta — portal informasi publik yang menjadi wajah digital sekolah untuk orang tua, calon siswa, siswa aktif, guru, dan masyarakat umum. Menyediakan satu tempat terpercaya untuk seluruh informasi penting sekolah tanpa harus telepon atau WhatsApp.
 
 ## Nama & Identitas
-- **Nama produk**: Website SMP Muhammadiyah 2 Surakarta
+- **Nama produk**: SMPM2 Solo
 - **Tagline**: "Unggul dalam Prestasi, Islami dalam Karakter"
 - **Afiliasi**: Muhammadiyah — organisasi pendidikan Islam terkemuka di Indonesia
 - **Lokasi**: Surakarta (Solo), Jawa Tengah, Indonesia

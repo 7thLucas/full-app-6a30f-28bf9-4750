@@ -1,0 +1,69 @@
+<style>
+.mode-landscape .sl-root { flex-direction: row; }
+.mode-portrait .sl-root { flex-direction: column; }
+.mode-landscape .sl-left { width: 56%; }
+.mode-landscape .sl-right { width: 44%; }
+.mode-portrait .sl-left { width: 100%; flex: 1; }
+.mode-portrait .sl-right { width: 100%; height: 38%; }
+</style>
+
+<section class="w-full h-full overflow-hidden bg-white">
+  <div class="sl-root flex w-full h-full">
+
+    <!-- Left: Content -->
+    <div class="sl-left flex flex-col justify-between p-10">
+
+      <!-- Top: Brand identity -->
+      <div class="flex items-center gap-3">
+        <div class="w-9 h-9 rounded-full bg-blue-800 flex items-center justify-center flex-shrink-0">
+          <span class="text-white text-xs font-black tracking-tight">M</span>
+        </div>
+        <div>
+          <div class="text-xs font-bold text-blue-800 uppercase tracking-widest leading-none">SMP Muhammadiyah 2</div>
+          <div class="text-xs text-slate-400 uppercase tracking-wide leading-none mt-0.5">Surakarta · Jawa Tengah</div>
+        </div>
+      </div>
+
+      <!-- Middle: Headline & tagline -->
+      <div>
+        <h1 class="text-4xl font-black text-slate-900 leading-none mb-4">
+          Website<br/>
+          <span class="text-blue-700">Resmi</span><br/>
+          Sekolah
+        </h1>
+        <p class="text-sm text-slate-600 leading-relaxed max-w-xs mb-4">
+          Satu portal digital untuk info PPDB, pengumuman penting, jadwal akademik, galeri kegiatan, dan kontak — tersedia kapan saja, dari mana saja.
+        </p>
+        <div class="flex items-center gap-2">
+          <div class="w-5 h-0.5 bg-green-600 rounded"></div>
+          <p class="text-xs font-semibold text-green-700 italic">
+            "Unggul dalam Prestasi, Islami dalam Karakter"
+          </p>
+        </div>
+      </div>
+
+      <!-- Bottom: Chips + attribution -->
+      <div>
+        <div class="flex flex-wrap gap-2 mb-5">
+          <span class="px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-xs font-semibold">PPDB Online</span>
+          <span class="px-3 py-1 rounded-full bg-green-100 text-green-800 text-xs font-semibold">Berita & Pengumuman</span>
+          <span class="px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-semibold">Profil Sekolah</span>
+          <span class="px-3 py-1 rounded-full bg-slate-100 text-slate-700 text-xs font-semibold">Galeri Kegiatan</span>
+        </div>
+        <data-attribution />
+      </div>
+
+    </div>
+
+    <!-- Right: Image -->
+    <div class="sl-right relative overflow-hidden bg-blue-900">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=Indonesian+Muslim+junior+high+school+students+in+white+uniform+with+batik+accents+cheerful+studying+together+bright+modern+classroom+Surakarta+Solo+Central+Java+professional+education+photography+warm+natural+light"
+        alt="Siswa SMP Muhammadiyah 2 Surakarta"
+        class="w-full h-full object-cover"
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-blue-900/20 to-transparent"></div>
+    </div>
+
+  </div>
+</section>
